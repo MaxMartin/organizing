@@ -11,5 +11,5 @@
 * What went wrong and right?
 * Link to the the post-workshop survey results
 
-### <a name="updatewiki"/>Update this wiki with your brilliant discoveries
+### <a name="updaterepo"/>Update this repo with your brilliant discoveries
 * Pretty please!

@@ -1,6 +1,6 @@
 ### First Steps
 * [Join the organizer's listserve](Workshop-Planning-Tasks.md#joinlistserve)
-* [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks.md#meetmentor)
+* [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks.md#meet-your-mentor)
 * [Identify existing communities to collaborate with](Finding-space-sponsors-volunteers-and-students.md#find_community)
 * [Recruit volunteers to teach, TA, and help you plan](Finding-space-sponsors-volunteers-and-students.md#find_volunteers)
 * [Find a space](Finding-space-sponsors-volunteers-and-students.md#find_space)
@@ -10,7 +10,7 @@
 * [Add your event to the ClojureBridge events web site](Workshop-Planning-Tasks.md#calendarlisting)
 
 ### Somewhere Around Three Weeks Before
-* [Post the event on Eventbrite](Workshop-Planning-Tasks.md#meetup)
+* [Post the event on Eventbrite](Workshop-Planning-Tasks.md#post-the-event-on-eventbrite)
 
 ### Two Weeks Before
 * [Train the teachers](Workshop-Planning-Tasks.md#trainteachers)
@@ -22,14 +22,14 @@
 
 ### One Week Before
 * [Obtain necessary objects (power cords, flash drives, name tags, etc.)](Workshop-Planning-Tasks.md#objects)
-* [Update the pre- and post-workshop presentation slides](Workshop-Planning-Tasks.md#slides)
-* [Figure out student class levels](Workshop-Planning-Tasks.md#levels)
+* [Create pre- and post-workshop presentation slides](Workshop-Planning-Tasks.md#slides)
+* [Figure out student class levels](Class-level-grouping-guide.md)
 
 ### At the Installfest
-* [Set up a good Installfest space](Workshop-Planning-Tasks.md#installspace)
-* [Set up a welcome desk with class level confirmation](Workshop-Planning-Tasks.md#welcomedesk)
-* [Identify a Github point person for real-time updates](Workshop-Planning-Tasks.md#updates)
-* [Deal with inevitable issues](Workshop-Planning-Tasks.md#installfestissues)
+* [Set up a good Installfest space](Installfest-Tasks.md#setting-up-a-good-installfest-space)
+* [Set up a welcome desk with class level confirmation](https://github.com/ClojureBridge/organizing/blob/master/Installfest-Tasks.md#-welcome-desk-with-class-level-confirmation)
+* [Deal with inevitable issues](https://github.com/ClojureBridge/organizing/blob/master/Installfest-Tasks.md#-dealing-with-inevitable-issues)
+* [Use this time to get your ducks in a row](https://github.com/ClojureBridge/organizing/blob/master/Installfest-Tasks.md#organizers---take-this-time-to-get-your-ducks-in-order)
 
 ### At the Workshop
 * [Set up! Welcome desk, presentation space,  classrooms, & food](Workshop-tasks.md#setup)
@@ -44,9 +44,8 @@
 * [Party party party!](Workshop-tasks.md#afterparty)
 
 ### Aftermath
-* [Send follow-up encouragement to students, thank yous to teachers & host space](aftermath.md#followup)
-* [Send a writeup and survey results to the organizer's listserve](aftermath.md#writeup)
-* [Get reimbursed](aftermath.md#reimburse)
-* [Update this wiki with your brilliant discoveries](aftermath.md#updatewiki)
+* [Send follow-up encouragement to students, thank yous to teachers & host space](Aftermath.md#-send-follow-upsthank-yous-to-students-teachers--host-space)
+* [Send a writeup and survey results to the organizer's listserve](Aftermath.md#-send-a-writeup-of-the-weekend-to-the-organizers-listserve)
+* [Update this repo with your brilliant discoveries](https://github.com/ClojureBridge/organizing/blob/master/Aftermath.md#update-this-repo-with-your-brilliant-discoveries)
 
 ### [Back to Cookbook Home](README.md)
