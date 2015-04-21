@@ -17,7 +17,7 @@ Conduct](http://bridgefoundry.org/code-of-conduct/).
   * [Installfest Tasks](Installfest-Tasks.md)
   * [Workshop Tasks](Workshop-tasks.md)
   * [Aftermath](Aftermath.md)
-* [Money Things](Money-Things.md)
+* [Sample Budget](Sample-budget.md)
 * [The Three Main Roles](Three-Main-Roles.md)
 * [Venue](Venue.md)
 * [Templates and Materials](Templates-and-Materials.md)

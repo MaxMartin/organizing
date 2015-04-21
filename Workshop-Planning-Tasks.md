@@ -110,3 +110,5 @@ Include important logistical information (where the bathrooms are, what the sche
 
 ### <a name="levels"/>Figure out student class levels
 * Use the set up a rough guesstimate of number of groups and sizes. It is very helpful to arrange the sections again the night before, after everyone has checked in at the installfest; that way you have a much better idea of what your actual workshop attendance will be.
+
+* For a more detailed guide to grouping students, see [this document](Class-level-grouping-guide.md).

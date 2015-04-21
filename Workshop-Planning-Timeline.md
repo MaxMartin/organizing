@@ -23,7 +23,7 @@
 ### One Week Before
 * [Obtain necessary objects (power cords, flash drives, name tags, etc.)](Workshop-Planning-Tasks.md#objects)
 * [Create pre- and post-workshop presentation slides](Workshop-Planning-Tasks.md#slides)
-* [Figure out student class levels](Class-level-grouping-guide.md)
+* [Figure out student class levels](Workshop-Planning-Tasks.md#levels)
 
 ### At the Installfest
 * [Set up a good Installfest space](Installfest-Tasks.md#setting-up-a-good-installfest-space)
